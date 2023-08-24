@@ -27,7 +27,6 @@ img {
 }
 .container {
   width: 1158px;
-  padding: 0 15px 0 15px;
   margin-right: auto;
   margin-left: auto;
   padding-left: 15px;
@@ -263,8 +262,7 @@ button:focus {
   padding: 100px 0;
 }
 .footer-container {
-  display: flex;
-  flex-direction: column;
+  display: inline-block;
 }
 .footer-text {
   font-size: 16px;
@@ -277,7 +275,6 @@ button:focus {
   padding-bottom: 100px;
 }
 .logo-footer {
-  display: inline-block;
   margin-right: 76px;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;

@@ -30,6 +30,8 @@ img {
   padding: 0 15px 0 15px;
   margin-right: auto;
   margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 /* header */
 .page-header {
@@ -205,7 +207,7 @@ button:focus {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 .team-list-text {
   font-size: 16px;
@@ -219,6 +221,7 @@ button:focus {
 /* portfolio */
 .portfolio-section {
   padding-top: 120px;
+  padding-bottom: 120px;
 }
 .portfolio-list {
   display: flex;

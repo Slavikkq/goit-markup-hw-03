@@ -29,12 +29,12 @@ img {
   width: 1158px;
   margin-right: auto;
   margin-left: auto;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 /* header */
 .page-header {
   border-bottom: #e7e9fc 1px solid;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 .page-header-container {
   display: flex;
@@ -261,9 +261,6 @@ button:focus {
   height: 312px;
   padding: 100px 0;
 }
-.footer-container {
-  display: inline-block;
-}
 .footer-text {
   font-size: 16px;
   font-weight: 400;
@@ -275,6 +272,7 @@ button:focus {
   padding-bottom: 100px;
 }
 .logo-footer {
+  display: inline-block;
   margin-right: 76px;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;

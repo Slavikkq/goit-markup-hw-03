@@ -194,7 +194,6 @@ button:focus {
 }
 .team-list-item {
   background-color: #ffffff;
-  width: 265px;
   height: 381px;
   border-radius: 0px 0px 4px 4px;
   width: calc(100% - 72 / 4);

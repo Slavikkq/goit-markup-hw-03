@@ -39,7 +39,8 @@ img {
   padding-top: 24px;
   padding-bottom: 24px;
   justify-content: space-between;
-  padding: 0 15px 0 15px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 .page-navigation {
   align-items: center;

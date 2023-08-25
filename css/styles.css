@@ -29,18 +29,17 @@ img {
   width: 1158px;
   margin-right: auto;
   margin-left: auto;
-  padding: 0 15px 0 15px;
 }
 /* header */
 .page-header {
   border-bottom: #e7e9fc 1px solid;
-  padding: 0 15px 0 15px;
 }
 .page-header-container {
   display: flex;
   padding-top: 24px;
   padding-bottom: 24px;
   justify-content: space-between;
+  padding: 0 15px 0 15px;
 }
 .page-navigation {
   align-items: center;

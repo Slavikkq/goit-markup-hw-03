@@ -107,6 +107,9 @@ img {
   color: #ffffff;
   max-width: 496px;
   height: 120px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 48px;
 }
 .button {
   display: block;
@@ -122,6 +125,8 @@ img {
   height: 56px;
   border: none;
   border-radius: 4px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .button:hover,
 button:focus {
@@ -262,14 +267,13 @@ button:focus {
   padding: 100px 0;
 }
 .footer-text {
+  display: flex;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  padding-top: 16px;
-  padding-bottom: 100px;
 }
 .logo-footer {
   display: inline-block;
@@ -281,7 +285,6 @@ button:focus {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  padding-top: 100px;
   margin-bottom: 16px;
 }
 .logo-item-footer {

@@ -34,6 +34,7 @@ img {
 /* header */
 .page-header {
   border-bottom: #e7e9fc 1px solid;
+  padding: 0 15px 0 15px;
 }
 .page-header-container {
   display: flex;

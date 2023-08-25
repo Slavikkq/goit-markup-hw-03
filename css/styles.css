@@ -29,12 +29,11 @@ img {
   width: 1158px;
   margin-right: auto;
   margin-left: auto;
+  padding: 0 15px 0 15px;
 }
 /* header */
 .page-header {
   border-bottom: #e7e9fc 1px solid;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 .page-header-container {
   display: flex;
@@ -147,7 +146,6 @@ button:focus {
 }
 .about-us-list {
   display: flex;
-  width: calc(100% -72 / 4);
   gap: 24px;
 }
 .about-section-title {
@@ -230,7 +228,6 @@ button:focus {
   column-gap: 24px;
   row-gap: 48px;
   padding-bottom: 120px;
-  width: calc(100%-48 / 2);
 }
 .portfolio-list-item {
   width: 360px;

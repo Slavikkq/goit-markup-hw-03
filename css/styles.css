@@ -27,8 +27,7 @@ img {
 }
 .container {
   max-width: 1158px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -38,14 +37,15 @@ img {
 }
 .page-header-container {
   display: flex;
-  padding-top: 24px;
-  padding-bottom: 24px;
+
   justify-content: space-between;
 }
 .page-navigation {
   align-items: center;
   display: flex;
   align-content: center;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .logo {
   display: flex;

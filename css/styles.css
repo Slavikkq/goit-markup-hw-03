@@ -26,10 +26,9 @@ img {
   display: block;
 }
 .container {
-  width: 1158px;
+  max-width: 1158px;
   margin: 0 auto;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 0 15px;
 }
 /* header */
 .page-header {

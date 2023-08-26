@@ -27,8 +27,9 @@ img {
 }
 .container {
   width: 1158px;
-  margin-right: auto;
-  margin-left: auto;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 /* header */
 .page-header {
@@ -39,8 +40,6 @@ img {
   padding-top: 24px;
   padding-bottom: 24px;
   justify-content: space-between;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 .page-navigation {
   align-items: center;
